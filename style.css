@@ -12,7 +12,7 @@ header {
 }
 h1 {
     color: chocolate;
-    font-size: 5rem;
+    font-size: 6rem;
     font-family: 'Times New Roman', Times, serif;
 }
 .news {
@@ -25,19 +25,27 @@ article {
     padding: 6px 15px;
     border-bottom: 1px solid rgb(128,128,128);
 }
+
 article a {
-    color: rgb(33,37,41);
+    color: rgb(61, 120, 72);
     text-decoration: none;
 }
-article a {
-    color: #00AF64;
+
+article b {
+    color: #294cae;
 }
+
+article p {
+    color: #142a65;
+    font-style: italic;
+}
+
 article h2 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin-bottom: 5px;
 }
 .article-meta {
-    color: rgb(134, 142,150);
+    color: rgb(53, 100, 147);
     margin-bottom: 5px;
 }
 article img {
