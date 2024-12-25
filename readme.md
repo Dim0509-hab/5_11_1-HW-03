@@ -11,9 +11,7 @@
 
 * CSS (Bootstrap)
 
-* JavaScript (jQuery, Popper )
 
-* Web-fonts (Roboto)
 
 ## Как открыть/запустить
 

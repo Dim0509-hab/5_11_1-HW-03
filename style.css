@@ -12,7 +12,7 @@ header {
     
 }
 h1 {
-    color: chocolate;
+    color: rgb(237, 211, 11);
     font-size: 9rem;
     font-family: 'Times New Roman', Times, serif;
 }
@@ -87,4 +87,9 @@ footer .links >a {
 article:nth-child(even) {
     background: rgb(151, 189, 229);
     border-radius: 10px;
+  }
+
+  q::before {
+    content: "New";
+    color: blue;
   }
